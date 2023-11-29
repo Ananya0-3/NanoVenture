@@ -116,6 +116,7 @@
             <li class="link-item"><a href="#hero-section"><img src="th.jpg" class="logo" alt=""></a></li>
             <li class="link-item"><a href="h&s.jsp">Help and Support</a></li>
             <li class="link-item"><a href="booknow.jsp">Book Now</a></li>
+            <li class="link-item"><a href="aboutus.jsp">About us</a></li>
         </ul>
     </nav>
 </div>
